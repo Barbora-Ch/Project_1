@@ -10,7 +10,7 @@ Tento program slouží k jednoduché textové analýze zadaných textových vzor
 
 * **Autentizace uživatele:** Přihlášení registrovaným uživatelským jménem a heslem.
 * **Dynamické načítání textů:** Program funguje univerzálně pro libovolný počet uložených textů (zjišťováno pomocí `len()`).
-* **Robustní validace vstupů:** Bezpečná kontrola uživatelské volby (pouze platná čísla v dostupném rozsahu). V případě neplatného vstupu program zobrazí varování a bezpečně se ukončí.
+* **Validace vstupů:** Bezpečná kontrola uživatelské volby (pouze platná čísla v dostupném rozsahu). V případě neplatného vstupu program zobrazí varování a bezpečně se ukončí.
 * **Textová analýza:**
   * Celkový počet slov v textu.
   * Počet slov začínajících velkým písmenem.
