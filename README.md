@@ -34,14 +34,8 @@ Ke spuštění projektu potřebujete mít nainstalovaný Python (verze 3.x).
 
 ## Ukázka výstupu
 
-<<<<<<< HEAD
-```text
-username: bob
-password: 123
-=======
 Enter the username: bob
 Enter the password: 123
->>>>>>> 94e2242 (Add local project files)
 ----------------------------------------
 Welcome to the app, bob
 We have 3 texts to be analyzed.
